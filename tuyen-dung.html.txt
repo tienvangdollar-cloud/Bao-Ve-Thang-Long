@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8">
+    <title>Tuyển dụng bảo vệ – Thăng Long Security</title>
+    <meta name="description" content="Tuyển dụng nhân viên bảo vệ chuyên nghiệp, lương ổn định, đào tạo bài bản. Nộp hồ sơ online ngay!">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+    <div class="container">
+        <div class="logo">Thăng Long Security</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Trang chủ</a></li>
+                <li><a href="khach-hang.html">Khách hàng</a></li>
+                <li><a href="tuyen-dung.html">Tuyển dụng</a></li>
+                <li><a href="lien-he.html">Liên hệ</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<section class="hero" style="padding:4rem 0">
+    <div class="container">
+        <h1>Tuyển dụng bảo vệ</h1>
+        <p>Gia nhập Thăng Long Security để được đào tạo bài bản, lương ổn định, môi trường chuyên nghiệp.</p>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <h2>Vị trí đang tuyển</h2>
+        <div class="services">
+            <div class="card">
+                <h3>Nhân viên bảo vệ ca ngày</h3>
+                <p><strong>Địa điểm:</strong> Quận 7, TP.HCM</p>
+                <p><strong>Lương:</strong> 8.000.000 – 9.500.000 VNĐ</p>
+                <p><strong>Yêu cầu:</strong> Nam cao 1m65+, nữ 1m55+, sức khỏe tốt, lý lịch rõ ràng.</p>
+            </div>
+            <div class="card">
+                <h3>Nhân viên bảo vệ ca đêm</h3>
+                <p><strong>Địa điểm:</strong> Bình Dương</p>
+                <p><strong>Lương:</strong> 9.500.000 – 11.000.000 VNĐ</p>
+                <p><strong>Yêu cầu:</strong> Có kinh nghiệm, chịu được cường độ cao.</p>
+            </div>
+            <div class="card">
+                <h3>Bảo vệ VIP – Bodyguard</h3>
+                <p><strong>Địa điểm:</strong> Hà Nội / Đà Nẵng</p>
+                <p><strong>Lương:</strong> 15.000.000 – 20.000.000 VNĐ</p>
+                <p><strong>Yêu cầu:</strong> Có chứng chỉ Vệ sĩ, tiếng Anh giao tiếp, võ thuật.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section" style="background:var(--light)">
+    <div class="container">
+        <h2>Ứng tuyển nhanh</h2>
+        <form action="#" method="post" enctype="multipart/form-data">
+            <input type="text" name="fullname" placeholder="Họ và tên *" required>
+            <input type="tel" name="phone" placeholder="Số điện thoại *" required>
+            <input type="email" name="email" placeholder="Email">
+            <select name="position" required>
+                <option value="">Chọn vị trí ứng tuyển</option>
+                <option>Bảo vệ ca ngày</option>
+                <option>Bảo vệ ca đêm</option>
+                <option>Bodyguard</option>
+            </select>
+            <label>CV (pdf/jpg/png):</label>
+            <input type="file" name="cv">
+            <textarea name="message" rows="4" placeholder="Tin nhắn / kinh nghiệm thêm"></textarea>
+            <button type="submit" class="btn">Gửi hồ sơ ứng tuyển</button>
+        </form>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <h2>Câu hỏi thường gặp</h2>
+        <p><strong>1. Không có kinh nghiệm có được nhận không?</strong><br>
+        – Có. Công ty đào tạo miễn phí 1–2 tuần trước khi làm việc.</p>
+        <p><strong>2. Lương được nhận khi nào?</strong><br>
+        – Đúng ngày 05 hàng tháng qua chuyển khoản.</p>
+        <p><strong>3. Có được đóng BHXH không?</strong><br>
+        – Được đóng đầy đủ theo Luật Lao động.</p>
+        <p><strong>4. Có hỗ trợ chỗ ở không?</strong><br>
+        – Có ký túc xá miễn phí cho nhân viên ở xa.</p>
+    </div>
+</section>
+
+<footer>
+    <div class="container">
+        <p>© 2025 Công ty Dịch vụ Bảo vệ Thăng Long. All rights reserved.</p>
+        <div class="social">
+            <a href="#"><img src="img/icon-fb.svg" alt="Facebook"></a>
+            <a href="#"><img src="img/icon-yt.svg" alt="YouTube"></a>
+            <a href="#"><img src="img/icon-li.svg" alt="LinkedIn"></a>
+        </div>
+    </div>
+</footer>
+</body>
+</html>

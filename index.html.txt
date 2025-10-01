@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8">
+    <title>Công ty Dịch vụ Bảo vệ Thăng Long – Chuyên nghiệp, Uy tín, An toàn</title>
+    <meta name="description" content="Dịch vụ bảo vệ chuyên nghiệp tại Việt Nam: bảo vệ mục tiêu cố định, sự kiện, VIP, tuần tra camera. Liên hệ báo giá miễn phí!">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+    <div class="container">
+        <div class="logo">Thăng Long Security</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Trang chủ</a></li>
+                <li><a href="khach-hang.html">Khách hàng</a></li>
+                <li><a href="tuyen-dung.html">Tuyển dụng</a></li>
+                <li><a href="lien-he.html">Liên hệ</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<section class="hero">
+    <div class="container">
+        <h1>Công ty Dịch vụ Bảo vệ Thăng Long</h1>
+        <p>Chuyên nghiệp – Uy tín – An toàn</p>
+        <p>Hotline: <strong>+84-XXX-XXX-XXX</strong></p>
+        <a href="lien-he.html" class="btn">Yêu cầu báo giá</a>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <h2>Về chúng tôi</h2>
+        <p>Thành lập từ 2010, Công ty Dịch vụ Bảo vệ Thăng Long mang đến giải pháp an ninh toàn diện, với đội ngũ bảo vệ chuyên nghiệp và tận tâm, giúp Quý khách an tâm phát triển kinh doanh.</p>
+    </div>
+</section>
+
+<section class="section" style="background:var(--light)">
+    <div class="container">
+        <h2>Dịch vụ tiêu biểu</h2>
+        <div class="services">
+            <div class="card">
+                <i>🏢</i>
+                <h3>Bảo vệ mục tiêu cố định</h3>
+                <p>Nhà máy, công trường, tòa nhà, cao ốc…</p>
+            </div>
+            <div class="card">
+                <i>🎤</i>
+                <h3>Bảo vệ sự kiện</h3>
+                <p>Hội nghị, hội chợ, concert, lễ khởi công…</p>
+            </div>
+            <div class="card">
+                <i>👑</i>
+                <h3>Bảo vệ VIP</h3>
+                <p>Đón tiễn sân bay, đi công tác, bảo vệ cá nhân…</p>
+            </div>
+            <div class="card">
+                <i>📹</i>
+                <h3>Tuần tra & giám sát camera</h3>
+                <p>Giám sát 24/7 kết hợp cảnh báo nhanh.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container" style="text-align:center">
+        <h2>Tại sao chọn Thăng Long?</h2>
+        <div class="trust-badges">
+            <span class="badge">✔ Đã cấp phép</span>
+            <span class="badge">✔ Có bảo hiểm trách nhiệm</span>
+            <span class="badge">✔ 14 năm kinh nghiệm</span>
+        </div>
+        <h3>Một số khách hàng tiêu biểu</h3>
+        <div class="carousel">
+            <img src="img/logo1.png" alt="Khách hàng 1">
+            <img src="img/logo2.png" alt="Khách hàng 2">
+            <img src="img/logo3.png" alt="Khách hàng 3">
+            <img src="img/logo4.png" alt="Khách hàng 4">
+            <img src="img/logo5.png" alt="Khách hàng 5">
+        </div>
+    </div>
+</section>
+
+<section class="cta-banner">
+    <div class="container">
+        <h2>Nhận tư vấn an ninh miễn phí ngay hôm nay</h2>
+        <a href="lien-he.html" class="btn">Liên hệ ngay</a>
+    </div>
+</section>
+
+<footer>
+    <div class="container">
+        <p>© 2025 Công ty Dịch vụ Bảo vệ Thăng Long. All rights reserved.</p>
+        <div class="social">
+            <a href="#"><img src="img/icon-fb.svg" alt="Facebook"></a>
+            <a href="#"><img src="img/icon-yt.svg" alt="YouTube"></a>
+            <a href="#"><img src="img/icon-li.svg" alt="LinkedIn"></a>
+        </div>
+    </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8">
+    <title>Khách hàng đang triển khai – Thăng Long Security</title>
+    <meta name="description" content="Danh sách các hợp đồng bảo vệ đang triển khai và phản hồi tích cực từ khách hàng.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+    <div class="container">
+        <div class="logo">Thăng Long Security</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Trang chủ</a></li>
+                <li><a href="khach-hang.html">Khách hàng</a></li>
+                <li><a href="tuyen-dung.html">Tuyển dụng</a></li>
+                <li><a href="lien-he.html">Liên hệ</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<section class="hero" style="padding:4rem 0">
+    <div class="container">
+        <h1>Khách hàng đang triển khai</h1>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <div class="services">
+            <div class="card">
+                <img src="img/client-a.jpg" alt="Client A">
+                <h3>Công ty A – Nhà máy sản xuất linh kiện điện tử</h3>
+                <p><strong>Địa điểm:</strong> KCN Tân Bình, TP.HCM</p>
+                <p><strong>Dịch vụ:</strong> Bảo vệ cổng + tuần tra 24/7</p>
+            </div>
+            <div class="card">
+                <img src="img/client-b.jpg" alt="Client B">
+                <h3>Trung tâm thương mại B</h3>
+                <p><strong>Địa điểm:</strong> Quận 1, TP.HCM</p>
+                <p><strong>Dịch vụ:</strong> Giám sát camera & hỗ trợ an ninh tầng hầm</p>
+            </div>
+            <div class="card">
+                <img src="img/client-c.jpg" alt="Client C">
+                <h3>Chương trình concert “Mùa hè 2025”</h3>
+                <p><strong>Địa điểm:</strong> Sân vận động QĐND, Hà Nội</p>
+                <p><strong>Dịch vụ:</strong> Bảo vệ sự kiện 2.500 khán giả</p>
+            </div>
+            <div class="card">
+                <img src="img/client-d.jpg" alt="Client D">
+                <h3>Nhà hàng & khách sạn D</h3>
+                <p><strong>Địa điểm:</strong> Đà Nẵng</p>
+                <p><strong>Dịch vụ:</strong> Bảo vệ VIP, đón tiễn khách</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section" style="background:var(--light)">
+    <div class="container">
+        <h2 style="text-align:center">Khách hàng nói gì về chúng tôi</h2>
+        <div class="services">
+            <div class="card">
+                <p>“Dịch vụ bảo vệ Thăng Long đã mang đến sự an tâm tuyệt đối cho doanh nghiệp chúng tôi. Nhân viên lịch sự, xử lý tình huống khéo léo.”</p>
+                <strong>– Bà Nguyễn Thị H., Giám đốc nhân sự Công ty A</strong>
+            </div>
+            <div class="card">
+                <p>“Ca làm đêm luôn được tuần tra đúng giờ, hệ thống báo cáo rõ ràng. Chúng tôi hoàn toàn tin tưởng.”</p>
+                <strong>– Ông Lê Minh T., Trung tâm thương mại B</strong>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cta-banner">
+    <div class="container">
+        <h2>Liên hệ để được phục vụ tương tự</h2>
+        <a href="lien-he.html" class="btn">Liên hệ ngay</a>
+    </div>
+</section>
+
+<footer>
+    <div class="container">
+        <p>© 2025 Công ty Dịch vụ Bảo vệ Thăng Long. All rights reserved.</p>
+        <div class="social">
+            <a href="#"><img src="img/icon-fb.svg" alt="Facebook"></a>
+            <a href="#"><img src="img/icon-yt.svg" alt="YouTube"></a>
+            <a href="#"><img src="img/icon-li.svg" alt="LinkedIn"></a>
+        </div>
+    </div>
+</footer>
+</body>
+</html>

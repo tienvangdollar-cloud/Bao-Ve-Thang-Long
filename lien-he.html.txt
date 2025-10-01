@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8">
+    <title>Liên hệ – Thăng Long Security</title>
+    <meta name="description" content="Thông tin liên hệ Công ty Dịch vụ Bảo vệ Thăng Long. Văn phòng, hotline, email, form yêu cầu báo giá nhanh.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+    <div class="container">
+        <div class="logo">Thăng Long Security</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Trang chủ</a></li>
+                <li><a href="khach-hang.html">Khách hàng</a></li>
+                <li><a href="tuyen-dung.html">Tuyển dụng</a></li>
+                <li><a href="lien-he.html">Liên hệ</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<section class="hero" style="padding:4rem 0">
+    <div class="container">
+        <h1>Liên hệ</h1>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <div style="display:grid;gap:2rem;grid-template-columns:repeat(auto-fit,minmax(300px,1fr))">
+            <div>
+                <h3>Thông tin công ty</h3>
+                <p><strong>Trụ sở:</strong> 123 Đường 3/2, Phường 12, Quận 10, TP.HCM</p>
+                <p><strong>Hotline:</strong> +84-XXX-XXX-XXX</p>
+                <p><strong>Email:</strong> info@thanglongsecurity.vn</p>
+                <p><strong>Giờ làm việc:</strong> Thứ 2 – 7: 08:00 – 17:30</p>
+            </div>
+            <div>
+                <h3>Gửi yêu cầu nhanh</h3>
+                <form action="#" method="post">
+                    <input type="text" name="fullname" placeholder="Họ và tên *" required>
+                    <input type="email" name="email" placeholder="Email *" required>
+                    <input type="tel" name="phone" placeholder="Số điện thoại *" required>
+                    <select name="service" required>
+                        <option value="">Loại dịch vụ quan tâm</option>
+                        <option>Bảo vệ mục tiêu cố định</option>
+                        <option>Bảo vệ sự kiện</option>
+                        <option>Bảo vệ VIP</option>
+                        <option>Tuần tra & camera</option>
+                    </select>
+                    <textarea name="content" rows="4" placeholder="Nội dung cần tư vấn *" required></textarea>
+                    <button type="submit" class="btn">Gửi yêu cầu</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section" style="background:var(--light);padding:2rem 0">
+    <div class="container">
+        <h2>Chỉ đường</h2>
+        <div style="width:100%;height:400px;background:#ddd;display:flex;align-items:center;justify-content:center;color:#555">
+            [ Google Map embed place holder ]
+        </div>
+    </div>
+</section>
+
+<footer>
+    <div class="container" style="display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));text-align:left">
+        <div>
+            <h4>Thă>Các vị trí đang tuyển</h2>
+        <div class="services">
+            <div class="card">
+                <h3>Nhân viên bảo vệ cố định</h3>
+                <p><strong>Địa điểm:</strong> KCN Tân Bình, TP.HCM</p>
+                <p><strong>Ca làm:</strong> Ngày (7h–19h) hoặc Đêm (19h–7h)</p>
+                <p><strong>Yêu cầu:</strong> Nam 18–45 tuổi, sức khỏe tốt, lý lịch rõ ràng</p>
+                <p><strong>Mức lương:</strong> 8–10 triệu + phụ cấp ăn ca</p>
+            </div>
+            <div class="card">
+                <h3>Nhân viên bảo vệ sự kiện</h3>
+                <p><strong>Địa điểm:</strong> Theo ca sự kiện tại Hà Nội & TP.HCM</p>
+                <p><strong>Ca làm:</strong> Linh hoạt theo sự kiện (4–8h/ca)</p>
+                <p><strong>Yêu cầu:</strong> Nam/Nữ 18–35 tuổi, cao 165cm+, ngoại hình khá</p>
+                <p><strong>Mức lương:</strong> 150k–250k/ca + thưởng</p>
+            </div>
+            <div class="card">
+                <h3>Giám sát bảo vệ</h3>
+                <p><strong>Địa điểm:</strong> Các tỉnh miền Đông Nam Bộ</p>
+                <p><strong>Ca làm:</strong> Hành chính (8h–17h, thứ 2–6)</p>
+                <p><strong>Yêu cầu:</strong> Có 2 năm kinh nghiệm, tiếng Anh giao tiếp</p>
+                <p><strong>Mức lương:</strong> 12–15 triệu + xăng xe + điện thoại</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section" style="background:var(--light)">
+    <div class="container">
+        <h2>Gửi hồ sơ ứng tuyển</h2>
+        <form class="form" action="#" method="post" enctype="multipart/form-data">
+            <input type="text" name="name" placeholder="Họ và tên *" required>
+            <input type="tel" name="phone" placeholder="Số điện thoại *" required>
+            <input type="email" name="email" placeholder="Email">
+            <select name="position" required>
+                <option value="">Chọn vị trí ứng tuyển *</option>
+                <option>Bảo vệ cố định</option>
+                <option>Bảo vệ sự kiện</option>
+                <option>Giám sát bảo vệ</option>
+            </select>
+            <label>CV (PDF/JPG/PNG, max 2MB)</label>
+            <input type="file" name="cv" accept=".pdf,.jpg,.jpeg,.png">
+            <textarea name="message" rows="4" placeholder="Tin nhắn (giới thiệu bản thân)"></textarea>
+            <button type="submit" class="btn">Gửi hồ sơ ứng tuyển</button>
+        </form>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <h2>Câu hỏi thường gặp</h2>
+        <details>
+            <summary>1. Tôi chưa có kinh nghiệm, có được nhận không?</summary>
+            <p>Chúng tôi đào tạo miễn phí 2 tuần trước khi vào ca. Chỉ cần bạn nghiêm túc, sức khỏe tốt.</p>
+        </details>
+        <details>
+            <summary>2. Có ký hợp đồng & đóng bảo hiểm không?</summary>
+            <p>Có. Ký HĐLĐ sau 2 tháng thử việc, đóng BHXH, BHYT đầy đủ theo luật.</p>
+        </details>
+        <details>
+            <summary>3. Có được chuyển ca hay không?</summary>
+            <p>Hoàn toàn được. Báo trước 1 tuần để bộ phận điều phối sắp xếp.</p>
+        </details>
+        <details>
+            <summary>4. Mẫu đơn ứng tuyển cần những gì?</summary>
+            <p>CMND/CCCD, sổ hộ khẩu, giấy khám sức khỏe, 2 ảnh 3×4. Nộp online hoặc trực tiếp tại văn phòng.</p>
+        </details>
+    </div>
+</section>
+
+<footer>
+    <div class="container">
+        <p>© 2025 Công ty Dịch vụ Bảo vệ Thăng Long. All rights reserved.</p>
+        <div class="social">
+            <a href="#"><img src="img/icon-fb.svg" alt="Facebook"></a>
+            <a href="#"><img src="img/icon-yt.svg" alt="YouTube"></a>
+            <a href="#"><img src="img/icon-li.svg" alt="LinkedIn"></a>
+        </div>
+    </div>
+</footer>
+</body>
+</html>
